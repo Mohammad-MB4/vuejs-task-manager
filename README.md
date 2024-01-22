@@ -1,2 +1,7 @@
 # task-manager-vue
-Description
+
+## Project setup
+
+npm install
+npm run backend
+npm run serve
